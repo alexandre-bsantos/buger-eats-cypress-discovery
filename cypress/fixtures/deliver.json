@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "fullName": "Alexandre Santos",
+        "cpf": "00000014141",
+        "email": "alexandre@gmail.com",
+        "whatsapp": "4699999999999",
+        "address": {
+            "postalcode": "85502280",
+            "street": "Rua Munhoz da Rocha",
+            "number": "1000",
+            "details": "Casa",
+            "district": "Menino Deus",
+            "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "fullName": "Cpf inválido",
+        "cpf": "000000141AA",
+        "email": "cpf@gmail.com",
+        "whatsapp": "4699999999999",
+        "address": {
+            "postalcode": "85502280",
+            "street": "Rua Munhoz da Rocha",
+            "number": "1000",
+            "details": "Casa",
+            "district": "Menino Deus",
+            "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "fullName": "Email inválido",
+        "cpf": "00000014141",
+        "email": "alexandre.com",
+        "whatsapp": "4699999999999",
+        "address": {
+            "postalcode": "85502280",
+            "street": "Rua Munhoz da Rocha",
+            "number": "1000",
+            "details": "Casa",
+            "district": "Menino Deus",
+            "city_state": "Pato Branco/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
